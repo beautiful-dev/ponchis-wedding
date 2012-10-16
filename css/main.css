@@ -41,12 +41,14 @@ body {
  */
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #f08f4f;
+    color: #fff;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #f08f4f;
+    color: #fff;
     text-shadow: none;
 }
 
